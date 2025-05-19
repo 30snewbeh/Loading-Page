@@ -53,4 +53,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Tambah kelas untuk efek scale
     loadingText.classList.add('done');
   }, 8000); // 8000 ms = 8 detik
+
+  // =============================================
 });
